@@ -1,6 +1,6 @@
-using User.Models;
+using EtnaWin.Models;
 using Microsoft.EntityFrameworkCore;
-namespace User.Data
+namespace EtnaWin.Data
 {
     public class DBContext : DbContext
     {

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using User; // Remplacez par le nom de l'espace de noms contenant votre DBContext
+using EtnaWin.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
