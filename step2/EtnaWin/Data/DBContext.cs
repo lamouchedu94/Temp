@@ -1,10 +1,23 @@
-using EtnaWin.Models;
 using Microsoft.EntityFrameworkCore;
-namespace EtnaWin.Data
+using C.Models;
+
+namespace C.Data
 {
-    public class DBContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public DBContext(DbContextOptions<DBContext> options) : base(options) { }
-        public DbSet<User> Users { get; set; } 
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<User> Users { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<User>()
+                .ToTable("Users");
+        }
     }
 }
