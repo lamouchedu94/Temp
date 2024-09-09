@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/EtnaWin.csproj": {}
+    "/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/EtnaWin.csproj": {}
   },
   "projects": {
-    "/home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/EtnaWin.csproj": {
+    "/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/EtnaWin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/EtnaWin.csproj",
+        "projectUniqueName": "/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/EtnaWin.csproj",
         "projectName": "EtnaWin",
-        "projectPath": "/home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/EtnaWin.csproj",
+        "projectPath": "/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/EtnaWin.csproj",
         "packagesPath": "/home/paul/.nuget/packages/",
-        "outputPath": "/home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/obj/",
+        "outputPath": "/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/paul/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

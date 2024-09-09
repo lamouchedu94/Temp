@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EtnaWin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25c783970b424c9660fd15a1308007e5076127ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be8ef4f8b77de4b8d94bcbd84dece7321c6f0e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("EtnaWin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EtnaWin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

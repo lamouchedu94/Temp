@@ -31,3 +31,13 @@
 /home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/obj/Debug/net8.0/EtnaWin.pdb
 /home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/obj/Debug/net8.0/EtnaWin.genruntimeconfig.cache
 /home/paul/Documents/ETNA/group-1038300/step1/EtnaWin/obj/Debug/net8.0/ref/EtnaWin.dll
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.csproj.AssemblyReference.cache
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.AssemblyInfoInputs.cache
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.AssemblyInfo.cs
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.csproj.CoreCompileInputs.cache
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.MvcApplicationPartsAssemblyInfo.cs
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.MvcApplicationPartsAssemblyInfo.cache
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.dll
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/refint/EtnaWin.dll
+/home/paul/Documents/ETNA/group-1038300/step2/EtnaWin/obj/Debug/net8.0/EtnaWin.pdb
