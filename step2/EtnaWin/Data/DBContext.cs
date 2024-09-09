@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using C.Models;
+using EtnaWin.Models;
 
-namespace C.Data
+namespace EtnaWin.Data
 {
     public class ApplicationDbContext : DbContext
     {

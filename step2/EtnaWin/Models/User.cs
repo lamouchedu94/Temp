@@ -1,4 +1,4 @@
-namespace C.Models
+namespace EtnaWin.Models
 {
     public class User
     {
