@@ -1,14 +1,13 @@
 using Microsoft.EntityFrameworkCore;
-using EtnaWin.Models
+using EtnaWin.Models;
+
 namespace EtnaWin.Data
 
 {
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
-        {
-        }
+            : base(options) { }
 
         public DbSet<User> Users { get; set; }
 

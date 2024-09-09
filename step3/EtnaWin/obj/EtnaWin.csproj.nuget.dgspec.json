@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/evan/APE2027/Introduction_C#/step3/EtnaWin/EtnaWin.csproj": {}
+    "/home/phan_n/tests/paul-cs/step3/EtnaWin/EtnaWin.csproj": {}
   },
   "projects": {
-    "/home/evan/APE2027/Introduction_C#/step3/EtnaWin/EtnaWin.csproj": {
+    "/home/phan_n/tests/paul-cs/step3/EtnaWin/EtnaWin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evan/APE2027/Introduction_C#/step3/EtnaWin/EtnaWin.csproj",
+        "projectUniqueName": "/home/phan_n/tests/paul-cs/step3/EtnaWin/EtnaWin.csproj",
         "projectName": "EtnaWin",
-        "projectPath": "/home/evan/APE2027/Introduction_C#/step3/EtnaWin/EtnaWin.csproj",
-        "packagesPath": "/home/evan/.nuget/packages/",
-        "outputPath": "/home/evan/APE2027/Introduction_C#/step3/EtnaWin/obj/",
+        "projectPath": "/home/phan_n/tests/paul-cs/step3/EtnaWin/EtnaWin.csproj",
+        "packagesPath": "/home/phan_n/.nuget/packages/",
+        "outputPath": "/home/phan_n/tests/paul-cs/step3/EtnaWin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/evan/.nuget/NuGet/NuGet.Config"
+          "/home/phan_n/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -51,13 +51,13 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
             },
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
